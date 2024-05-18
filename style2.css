@@ -299,10 +299,10 @@ p{
 }
 
 .list {
-    width: 400px; /* Adjust width as needed */
-    height: 400px; /* Adjust height as needed */
+    width: 400px; 
+    height: 400px; 
   
-    overflow-y: auto; /* Enable vertical scrollbar */
+    overflow-y: auto; 
     position: relative;
     top: -480px;
     left: 1100px;
@@ -328,9 +328,9 @@ p{
   }
 
   .item-list li img {
-    width: 100px; /* Adjust image width */
-    height: 100px; /* Maintain aspect ratio */
-    margin-right: 10px; /* Adjust margin between image and text */
+    width: 100px; 
+    height: 100px;
+    margin-right: 10px; 
     border-radius: 2px;
 }
 
